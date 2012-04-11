@@ -1,11 +1,11 @@
 # Skebby SMS gateway
 
-This software permits to send free SMS using the Skebby.it service using the command line
+This software permits to send free SMS with the Skebby.it service using the command line
 
 ## Usage
 
 Sign-up to the [Skebby website](http://www.skebby.it) and set a username and a password.
-Puts them in the script and set sender and recipient.
+Put them in the script and set sender and recipient.
 Send SMS from CLI using this syntax:
 
     ./gateway.rb "My awesome message"
